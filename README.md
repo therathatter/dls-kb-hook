@@ -8,10 +8,15 @@ Download the pre-compiled binary or compile it, then add it to LD_PRELOAD before
 # Default keys
 
 D for hi hat
+
 F for snare
+
 G for bass
+
 H for tom 1
+
 J for tom 2
+
 K for cymbal
 
 F1 for service, F2 for test / insert coin, F3 for clear coins
@@ -28,5 +33,3 @@ git clone https://github.com/therathatter/dls-kb-hook
 cd dls-kb-hook
 make
 ```
-
-You'll now have a `hook.so` file in the aforementioned directory.
