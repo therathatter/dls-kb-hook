@@ -2,6 +2,10 @@
 
 Tool that allows you to use your keyboard on Drum Live Station.
 
+Video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sdj5QoLypgk/0.jpg)](https://www.youtube.com/watch?v=sdj5QoLypgk)
+
 # Usage
 Download the pre-compiled binary or compile it, then add it to LD_PRELOAD before executing DLS.
 
